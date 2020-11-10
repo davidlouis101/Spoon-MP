@@ -16,6 +16,6 @@ cache:
 notifications:
  email:
   recipients:
-   - team@pmmp.io
+   - mpspoon1@gmail.com
   on_success: change
   on_failure: always
